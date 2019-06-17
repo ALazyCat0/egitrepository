@@ -7,4 +7,7 @@ public static void main(String[] args) {
 public void addgit(){
 	System.out.println("新增的方法");
 }
+public void add2git(){
+	System.out.println("第二次更改");
+}
 }
