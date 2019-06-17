@@ -11,4 +11,7 @@ public void add2git(){
 	System.out.println("ç¬¬äºŒæ¬¡ä¿®æ”¹");
 	
 }
+public void branch(){
+	System.out.println("Ìí¼Ó·ÖÖ§");
+}
 }
