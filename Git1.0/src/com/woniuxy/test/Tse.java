@@ -11,4 +11,7 @@ public void add2git(){
 	System.out.println("第二次更改");
 	
 }
+public void branch(){
+	System.out.println("添加分支");
+}
 }
