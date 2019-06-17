@@ -5,10 +5,10 @@ public static void main(String[] args) {
 	System.out.println("hello git");
 }
 public void addgit(){
-	System.out.println("ÐÂÔöµÄ·½·¨");
+	System.out.println("ç¬¬ä¸€æ¬¡ä¿®æ”¹");
 }
 public void add2git(){
-	System.out.println("µÚ¶þ´Î¸ü¸Ä");
+	System.out.println("ç¬¬äºŒæ¬¡ä¿®æ”¹");
 	
 }
 }
